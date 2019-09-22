@@ -1,0 +1,55 @@
+.App {
+
+}
+
+.centered {
+  text-align: center;
+}
+
+.card {
+  margin: 10px;
+  border-style: solid;
+  border-color: #DDDDDD;
+  border-width: 1px;
+  box-shadow: 2px 2px 2px #DDDDDD;
+}
+
+.welcome {
+  padding: 10px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  margin: 2px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.box {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.gray {
+  background-color: #EEEEEE;
+}
+
+.button {
+  margin: 2px;
+  padding: 5px;
+  background-color: cadetblue;
+  color: white;
+}
+
+.current {
+  background-color: cornflowerblue;
+}
