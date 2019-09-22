@@ -39,16 +39,16 @@ const Downloads = () => {
             <div className='row gray'>
                 <div className='box'>{localize('download_v1_uk')}</div>
                 <div>
-                    <button onClick={()=>downloadVersion('v1.0.0', ['uk'])} className='button'>
-                        Get v1.0.0 [UK]
+                    <button onClick={()=>downloadVersion('v1.0.1', ['uk'])} className='button'>
+                        Get v1.0.1 [UK]
                     </button>
                 </div>
             </div>
             <div className='row'>
                 <div className='box'>{localize('download_v1_all')}</div>
                 <div>
-                    <button onClick={()=>downloadVersion('v1.0.0')} className='button'>
-                        Get v1.0.0 [All]
+                    <button onClick={()=>downloadVersion('v1.0.1')} className='button'>
+                        Get v1.0.1 [All]
                     </button>
                 </div>
             </div>
