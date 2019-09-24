@@ -1,6 +1,7 @@
 {
   "name": "example",
   "version": "0.1.0",
+  "homepage": "/demo",
   "private": true,
   "dependencies": {
     "localize-to": "^1.0.1",
