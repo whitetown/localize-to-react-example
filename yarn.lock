@@ -5782,10 +5782,10 @@ loader-utils@1.2.3, loader-utils@^1.0.1, loader-utils@^1.0.2, loader-utils@^1.1.
     emojis-list "^2.0.0"
     json5 "^1.0.1"
 
-localize-to@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/localize-to/-/localize-to-1.0.1.tgz#213fd3aa558743da8a24aa757650a7d89cb796aa"
-  integrity sha512-23vLaw+Fvmg2UdmxRnlsid0pPND5EzKHCeqr+PehuyqsGSvLnmqQYa+GLw3yDyKp9cg0bpA55OMD0GRasf+1qw==
+localize-to@*:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/localize-to/-/localize-to-1.0.3.tgz#6ccf909c2ef7ce24bd27521ad86f5c193f72f58f"
+  integrity sha512-QyFKGSYImsxxm+4cVDbiJI2LMacFL5T7z9dj0xhQ/U16TAtDvYyG7p8mHZNOLrkQIJqDXZhqzexHp7eg5TcA6A==
   dependencies:
     prop-types "^15.7.2"
     react-dom "^16.9.0"
